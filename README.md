@@ -1,6 +1,12 @@
 # FedGT-Proto-WiFi-HAR
-Federated few-shot prototypical learning with a graph–temporal encoder for WiFi CSI human activity recognition (FedAvg, FedProx, FedProto, FedGT-Proto).
+Federated few-shot prototypical learning with a graph–temporal encoder for WiFi CSI human activity 
+recognition (FedAvg, FedProx, FedProto, FedGT-Proto).
 
+
+## Authors
+- Yahya Kord Tamandani — University of Sistan and Baluchestan  
+- Hassan Rezaei — University of Sistan and Baluchestan  
+Contact: Yahya.kord@gmail.com
 
 ## Methods
 - FedAvg, FedProx, FedProto, FedGT-Proto
